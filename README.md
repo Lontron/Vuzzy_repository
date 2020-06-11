@@ -13,7 +13,7 @@
        <p> Привет!
         Этот репозиторий аддонов сделан для собственного использования.
         Для доступа с  <a href="http://kodi.tv/" target="_blank">Kodi</a>
-        нужно установить <a href="https://nemiroff.github.io/kodi_repo/repo/repository.nemiroff/repository.nemiroff-1.0.1.zip">
+        нужно установить <a href="https://github.com/VuzzyM/Vuzzy_repository/raw/master/repo/plugin.video.kinotrend-1.1.1.zip">
         этот аддон</a> сначала.</p>
         <p class="text-just">&copy; Vuzzy</p>
       </div> 
