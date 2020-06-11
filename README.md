@@ -10,8 +10,8 @@
       <div class="jumbotron">
         <h3>Vuzzy Addons Repository</h3>
         <hr>
-        <p Привет!</p>
-        <p Этот репозиторий аддонов сделан для собственного использования.
+       <p> Привет!
+        Этот репозиторий аддонов сделан для собственного использования.
         Для доступа с  <a href="http://kodi.tv/" target="_blank">Kodi</a>
         нужно установить <a href="https://nemiroff.github.io/kodi_repo/repo/repository.nemiroff/repository.nemiroff-1.0.1.zip">
         этот аддон</a> сначала.</p>
