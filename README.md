@@ -20,7 +20,7 @@
         Для доступа с  <a href="http://kodi.tv/" target="_blank">Kodi</a>
         нужно установить <a href="https://nemiroff.github.io/kodi_repo/repo/repository.nemiroff/repository.nemiroff-1.0.1.zip">
         этот аддон</a> сначала.</p>
-        <p class="text-just">&copy; Nemiroff</p>
+        <p class="text-just">&copy; Vuzzy</p>
       </div> <!-- /jumbotron -->
     </div> <!-- /container -->
   </body>
