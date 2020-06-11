@@ -8,7 +8,7 @@
   <body>
     <div class="container" style="margin-top: 30px;">
       <div class="jumbotron">
-        <h3>Vuzzy Addons Repository</h3>
+        <h2>Vuzzy Addons Repository</h2>
         <hr>
        <p> Привет!
         Этот репозиторий аддонов сделан для собственного использования.
