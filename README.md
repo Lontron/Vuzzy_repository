@@ -6,17 +6,17 @@
     <title>Vuzzy Repository</title>
   </head>
   <body>
-    <div class="container" style="margin-top: 20px;">
+    <div class="container" style="margin-top: 30px;">
       <div class="jumbotron">
         <h2>Vuzzy Addons Repository</h2>
         <hr>
-        <p class="text-just">Привет!</p>
-        <p class="text-just">Этот репозиторий аддонов сделан для собственного использования.
+        <p Привет!</p>
+        <p Этот репозиторий аддонов сделан для собственного использования.
         Для доступа с  <a href="http://kodi.tv/" target="_blank">Kodi</a>
         нужно установить <a href="https://nemiroff.github.io/kodi_repo/repo/repository.nemiroff/repository.nemiroff-1.0.1.zip">
         этот аддон</a> сначала.</p>
         <p class="text-just">&copy; Vuzzy</p>
-      </div> <!-- /jumbotron -->
-    </div> <!-- /container -->
+      </div> 
+    </div>
   </body>
 </html>
