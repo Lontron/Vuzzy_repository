@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+<a href="https://nemiroff.github.io/kodi_repo/repo/repository.nemiroff/repository.nemiroff-1.0.1.zip">
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
